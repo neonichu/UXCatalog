@@ -10,7 +10,7 @@
 
 import UIKit
 
-class TextFieldViewController: UITableViewController, UITextFieldDelegate {
+class TextFieldViewController: UITableViewController /*, UITextFieldDelegate*/ {
     // MARK: Properties
 
     @IBOutlet weak var textField: UITextField!

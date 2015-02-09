@@ -40,36 +40,31 @@
 		3E6AE85A196B3BBC0062A3E1 /* SearchBarEmbeddedInNavigationBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E6AE859196B3BBC0062A3E1 /* SearchBarEmbeddedInNavigationBarViewController.swift */; };
 		A1B898101A89238D0005F092 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1B8980F1A89238D0005F092 /* Images.xcassets */; };
 		A1B898131A89238E0005F092 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = A1B898111A89238E0005F092 /* MainMenu.xib */; };
-		A1B898261A8923EA0005F092 /* ActivityIndicatorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2200541A18BC54E8002A6E8B /* ActivityIndicatorViewController.swift */; };
-		A1B898271A8923EA0005F092 /* AlertControllerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2200541B18BC54E8002A6E8B /* AlertControllerViewController.swift */; };
 		A1B898281A8923EA0005F092 /* ButtonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2200542118BC54EC002A6E8B /* ButtonViewController.swift */; };
-		A1B898291A8923EA0005F092 /* DatePickerController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2200542418BC54EC002A6E8B /* DatePickerController.swift */; };
-		A1B8982A1A8923EA0005F092 /* ImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2200542D18BC54F5002A6E8B /* ImageViewController.swift */; };
-		A1B8982B1A8923EA0005F092 /* PageControlViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2200543018BC54F5002A6E8B /* PageControlViewController.swift */; };
-		A1B8982C1A8923EA0005F092 /* PickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2200543118BC54F5002A6E8B /* PickerViewController.swift */; };
-		A1B8982D1A8923EA0005F092 /* ProgressViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2200543218BC54F5002A6E8B /* ProgressViewController.swift */; };
-		A1B8982E1A8923EA0005F092 /* SegmentedControlViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2200543318BC54F5002A6E8B /* SegmentedControlViewController.swift */; };
-		A1B8982F1A8923EA0005F092 /* SliderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2200543418BC54F5002A6E8B /* SliderViewController.swift */; };
-		A1B898301A8923EA0005F092 /* StepperViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2200543618BC54F5002A6E8B /* StepperViewController.swift */; };
-		A1B898311A8923EA0005F092 /* SwitchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2200543718BC54F5002A6E8B /* SwitchViewController.swift */; };
 		A1B898321A8923EA0005F092 /* TextFieldViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2200543818BC54F5002A6E8B /* TextFieldViewController.swift */; };
-		A1B898331A8923EA0005F092 /* TextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2200543918BC54F5002A6E8B /* TextViewController.swift */; };
-		A1B898341A8923EA0005F092 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2200543B18BC54F5002A6E8B /* WebViewController.swift */; };
-		A1B898351A8923EA0005F092 /* DefaultSearchBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2200542518BC54EC002A6E8B /* DefaultSearchBarViewController.swift */; };
-		A1B898361A8923EA0005F092 /* CustomSearchBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2200542218BC54EC002A6E8B /* CustomSearchBarViewController.swift */; };
-		A1B898371A8923EA0005F092 /* SearchControllerBaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E6AE84F196B20240062A3E1 /* SearchControllerBaseViewController.swift */; };
-		A1B898381A8923EA0005F092 /* SearchResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E6AE851196B39110062A3E1 /* SearchResultsViewController.swift */; };
-		A1B898391A8923EA0005F092 /* SearchPresentOverNavigationBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E6AE855196B3B490062A3E1 /* SearchPresentOverNavigationBarViewController.swift */; };
-		A1B8983A1A8923EA0005F092 /* SearchBarEmbeddedInNavigationBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E6AE859196B3BBC0062A3E1 /* SearchBarEmbeddedInNavigationBarViewController.swift */; };
-		A1B8983B1A8923EA0005F092 /* SearchShowResultsInSourceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E6AE853196B39350062A3E1 /* SearchShowResultsInSourceViewController.swift */; };
 		A1B8983C1A8923EA0005F092 /* DefaultToolbarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2200542618BC54EC002A6E8B /* DefaultToolbarViewController.swift */; };
 		A1B8983D1A8923EA0005F092 /* TintedToolbarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2200543A18BC54F5002A6E8B /* TintedToolbarViewController.swift */; };
 		A1B8983E1A8923EA0005F092 /* CustomToolbarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2200542318BC54EC002A6E8B /* CustomToolbarViewController.swift */; };
-		A1B8983F1A8923EA0005F092 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2200541C18BC54E8002A6E8B /* AppDelegate.swift */; };
 		A1B898401A8923EA0005F092 /* UIColor+ApplicationSpecific.swift in Sources */ = {isa = PBXBuildFile; fileRef = 221D43D318BF15EF00B9E8C9 /* UIColor+ApplicationSpecific.swift */; };
-		A1B898431A89251C0005F092 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A1B898421A89251C0005F092 /* UIKit.framework */; };
 		A1B898451A8936180005F092 /* Alias.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B898441A8936180005F092 /* Alias.swift */; };
+		A1B898701A896C830005F092 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B8986F1A896C830005F092 /* AppDelegate.swift */; };
+		A1B898711A896E5A0005F092 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A1B898421A89251C0005F092 /* UIKit.framework */; };
+		A1B898721A896E5A0005F092 /* UIKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = A1B898421A89251C0005F092 /* UIKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		A1B898731A896E5A0005F092 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				A1B898721A896E5A0005F092 /* UIKit.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		2200541A18BC54E8002A6E8B /* ActivityIndicatorViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ActivityIndicatorViewController.swift; sourceTree = "<group>"; };
@@ -111,6 +106,7 @@
 		A1B898121A89238E0005F092 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		A1B898421A89251C0005F092 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = UIKit.framework; sourceTree = "<group>"; };
 		A1B898441A8936180005F092 /* Alias.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Alias.swift; sourceTree = "<group>"; };
+		A1B8986F1A896C830005F092 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,7 +121,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A1B898431A89251C0005F092 /* UIKit.framework in Frameworks */,
+				A1B898711A896E5A0005F092 /* UIKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,6 +254,7 @@
 			isa = PBXGroup;
 			children = (
 				A1B898441A8936180005F092 /* Alias.swift */,
+				A1B8986F1A896C830005F092 /* AppDelegate.swift */,
 				A1B8980F1A89238D0005F092 /* Images.xcassets */,
 				A1B8980C1A89238D0005F092 /* Info.plist */,
 				A1B898111A89238E0005F092 /* MainMenu.xib */,
@@ -300,6 +297,7 @@
 				A1B898051A89238D0005F092 /* Sources */,
 				A1B898061A89238D0005F092 /* Frameworks */,
 				A1B898071A89238D0005F092 /* Resources */,
+				A1B898731A896E5A0005F092 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -405,33 +403,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A1B898261A8923EA0005F092 /* ActivityIndicatorViewController.swift in Sources */,
-				A1B898271A8923EA0005F092 /* AlertControllerViewController.swift in Sources */,
+				A1B898701A896C830005F092 /* AppDelegate.swift in Sources */,
 				A1B898281A8923EA0005F092 /* ButtonViewController.swift in Sources */,
-				A1B898291A8923EA0005F092 /* DatePickerController.swift in Sources */,
-				A1B8982A1A8923EA0005F092 /* ImageViewController.swift in Sources */,
-				A1B8982B1A8923EA0005F092 /* PageControlViewController.swift in Sources */,
-				A1B8982C1A8923EA0005F092 /* PickerViewController.swift in Sources */,
-				A1B8982D1A8923EA0005F092 /* ProgressViewController.swift in Sources */,
-				A1B8982E1A8923EA0005F092 /* SegmentedControlViewController.swift in Sources */,
-				A1B8982F1A8923EA0005F092 /* SliderViewController.swift in Sources */,
-				A1B898301A8923EA0005F092 /* StepperViewController.swift in Sources */,
-				A1B898311A8923EA0005F092 /* SwitchViewController.swift in Sources */,
 				A1B898321A8923EA0005F092 /* TextFieldViewController.swift in Sources */,
-				A1B898331A8923EA0005F092 /* TextViewController.swift in Sources */,
-				A1B898341A8923EA0005F092 /* WebViewController.swift in Sources */,
-				A1B898351A8923EA0005F092 /* DefaultSearchBarViewController.swift in Sources */,
-				A1B898361A8923EA0005F092 /* CustomSearchBarViewController.swift in Sources */,
-				A1B898371A8923EA0005F092 /* SearchControllerBaseViewController.swift in Sources */,
-				A1B898381A8923EA0005F092 /* SearchResultsViewController.swift in Sources */,
-				A1B898391A8923EA0005F092 /* SearchPresentOverNavigationBarViewController.swift in Sources */,
 				A1B898451A8936180005F092 /* Alias.swift in Sources */,
-				A1B8983A1A8923EA0005F092 /* SearchBarEmbeddedInNavigationBarViewController.swift in Sources */,
-				A1B8983B1A8923EA0005F092 /* SearchShowResultsInSourceViewController.swift in Sources */,
 				A1B8983C1A8923EA0005F092 /* DefaultToolbarViewController.swift in Sources */,
 				A1B8983D1A8923EA0005F092 /* TintedToolbarViewController.swift in Sources */,
 				A1B8983E1A8923EA0005F092 /* CustomToolbarViewController.swift in Sources */,
-				A1B8983F1A8923EA0005F092 /* AppDelegate.swift in Sources */,
 				A1B898401A8923EA0005F092 /* UIColor+ApplicationSpecific.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -567,7 +545,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_IDENTITY = "";
 				COMBINE_HIDPI_IMAGES = YES;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -593,7 +571,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_IDENTITY = "";
 				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
